@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace 'com.jonesclass.chirica.tictacsmack'
-    compileSdk 32
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.jonesclass.chirica.tictacsmack"
